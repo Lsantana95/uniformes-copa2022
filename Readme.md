@@ -17,7 +17,7 @@ Projeto de um Slider de imagens de todos os uniformes das 32 seleções da Copa 
 
 # Link do projeto:
 
-
+https://uniformes-copa2022.vercel.app/
 
 
 # Autor:
